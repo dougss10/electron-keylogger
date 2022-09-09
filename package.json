@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "auto-launch": "^5.0.1",
-    "electron": "^1.6.10",
+    "electron": "^19.0.15",
     "gkm": "^0.1.0",
     "request": "^2.81.0"
   }
